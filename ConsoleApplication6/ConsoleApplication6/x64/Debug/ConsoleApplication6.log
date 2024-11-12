@@ -1,0 +1,3 @@
+﻿  ConsoleApplication6.cpp
+C:\Users\adamv\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(150,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication6.vcxproj -> C:\Users\adamv\source\repos\ConsoleApplication6\x64\Debug\ConsoleApplication6.exe
